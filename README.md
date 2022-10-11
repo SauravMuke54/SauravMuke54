@@ -30,11 +30,9 @@ I'm Saurav Muke, a passionate Computer Engineering student 💻.
 <hr>
 
 ### ⚙️ &nbsp; Git Analytics
- <center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravMuke54&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMuke54&theme=dark&layout=compact" width="410" /></p>
-</center>
-------
-Credit: [NavodyaPasqual](https://github.com/SauravMuke)
+ 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravMuke54&theme=dark&show_icons=true" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMuke54&theme=dark&layout=compact" width="410" /></p>
 
-Last Edited on: 11/10/2022
+------
+
