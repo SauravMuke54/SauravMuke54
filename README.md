@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1jKOnVygni3zFoa3Tpx1p6&ust=1665573510202000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOC1hP6G2PoCFQAAAAAdAAAAABAP" height="280" />
+<img alt="GIF" src="![image](https://user-images.githubusercontent.com/98262822/195079272-b605d7e0-7b84-426d-a8a5-852f7f0c5a92.png)" height="280" />
  <p/>
 <h1 align="center"> Hi! I'm Saurav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
