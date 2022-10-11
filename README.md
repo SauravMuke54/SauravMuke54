@@ -1,8 +1,7 @@
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+<img alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1jKOnVygni3zFoa3Tpx1p6&ust=1665573510202000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOC1hP6G2PoCFQAAAAAdAAAAABAP" height="280" />
  <p/>
-<h1 align="center"> Hi! I'm Saurav <img src="![image](https://user-images.githubusercontent.com/98262822/195077489-6fac91d1-b9bf-4a25-9483-10ef10b7a947.png)
-" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi! I'm Saurav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm Saurav Muke, a passionate Computer Engineering student 💻.
 
