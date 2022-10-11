@@ -1,5 +1,6 @@
 <p align="center">
-![image](https://user-images.githubusercontent.com/98262822/195079272-b605d7e0-7b84-426d-a8a5-852f7f0c5a92.png)
+![image](https://user-images.githubusercontent.com/98262822/195079473-6d395956-0c09-4579-95ba-01826859402a.png)
+
  <p/>
 <h1 align="center"> Hi! I'm Saurav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
